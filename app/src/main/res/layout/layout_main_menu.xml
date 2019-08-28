@@ -6,9 +6,7 @@
     android:layout_height="wrap_content"
     android:layout_alignParentBottom="true"
     android:elevation="1dp"
-    android:orientation="vertical"
-    app:behavior_hideable="false"
-    app:layout_behavior="com.pranish.universalapplication.LockableBottomSheetBehavior">
+    android:orientation="vertical">
 
     <LinearLayout
         android:id="@+id/nsvMainMenu"
